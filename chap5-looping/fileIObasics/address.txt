@@ -1,0 +1,7 @@
+name: michael
+address: 1234 1st street
+city: riverside
+state: CA
+zip: 92507
+grade: 12.3457
+initial: I
