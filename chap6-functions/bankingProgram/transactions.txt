@@ -1,0 +1,3 @@
+Transaction 1: Deposited $50.00 New balance $50.00
+Transaction 2: Withdrew $20.00 New balance $30.00
+Transaction 3: Deposited $90.00 New balance $120.00
